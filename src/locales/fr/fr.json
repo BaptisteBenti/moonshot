@@ -1,0 +1,74 @@
+{
+  "todo_book": {
+    "comment":"J'adorais lire avant, j'étais dans mon monde. Maintenant je n'arrive plus à me concentrer suffisamment.",
+    "bind":"Je pourrais regarder un bon film à la place."
+    },
+  "todo_budget": {
+    "comment": "C'est humiliant d'être contraint à compter chaque sous, tout le temps. Néanmoins faire mon budget devrais m'épargner quelques angoisses.",
+    "bind": "Ma recherche d'emploi devrais être ma priorité numéro 1 !"
+  },
+  "todo_clean": {
+    "comment": "Quand je vois tout ce bordel j'ai envie de pleurer. Je ne sais même pas où commencer. Ça me rend triste de vivre dans ces conditions. Je n'ai pas l'énergie de m'occuper de ça aujourd'hui.",
+    "bind": "J'ai besoin de méditer je crois."
+  },
+  "todo_code": {
+    "comment": "J'ai toujours rêvé de gagner ma vie en racontant des histoires et de créer des jeux vidéo. Quand je pense que je n'ai jamais terminé un seul projets.",
+    "bind": "Pff, je perds mon temps. Je devrais plutôt chercher un vrai boulot !"
+  },
+  "todo_cook": {
+    "comment": "Je pourrais me cuisiner un bon risotto ai funghi comme me faisait ma grand-mère quand j'étais petit. Je pourrais aussi le rater et tout gâcher.",
+    "bind": "Quoiqu'il arrive il faut que je pense à faire les courses avant !"
+  },
+  "todo_friend": {
+    "comment": "Ça me ferait du bien de sortir voir des amis.",
+    "bind": "J'aimerai revoir ma grand-mère aussi. Mais je ne veux pas qu'elle me voit quand je suis comme ça. Je souhaite à personne de me voir dans cet état."
+  },
+  "todo_garden": {
+    "comment": "Aujourd'hui je pourrais donner la vie. Je trouve que le monde végétal est fascinant. Mais je n'ai pas trop la main verte.",
+    "bind": "J'ai peut-être des choses plus importantes à faire comme vérifier mon budget par exemple."
+  },
+  "todo_grandma": {
+    "comment": "Je suis nostalgique du temps où je passais l'après-midi chez elle. Je l'aime tellement. Ça fait longtemps que je ne l'ai pas vue, je pourrais au moins l'appeler aujourd'hui. Elle n'est pas éternelle.",
+    "bind": "Je me souviens quand on jardinait ensemble, j'admirais les fleurs, si belles, de ses cactus."
+  },
+  "todo_job": {
+    "comment": "Par où commencer ? Je refais mon CV ou bien la liste des entreprises du coin ? À quand remonte la dernière fois que j'ai travaillé ? Je suis bon à rien. Tout ça me déprime, je n'ai pas l'énergie de faire ça aujourd'hui...",
+    "bind": "À défaut d'avoir réussi à devenir créateur de jeux vidéo je pourrais devenir apiculteur. Les abeilles ne jugent pas les hommes. Enfin je crois."
+  },
+  "todo_juggle": {
+    "comment": "Aujourd'hui je jongle avec 5 balles ! Et puis c'est un peu du sport. En moins fatiguant et sans sortir de chez moi.",
+    "bind": "Mouais, je devrais peut-être prendre l'air un peu."
+  },
+  "todo_laundry": {
+    "comment": "Je pourrais commencer par laver tout ce linge.",
+    "bind": "Ou bien devrais-je tout ranger une bonne fois pour toute ?"
+  },
+  "todo_meditate": {
+    "comment": "Je sens que ça peut me faire du bien. Au pire je m'endors...",
+    "bind": "Je vais avoir du mal à méditer si je ne sors pas les poubelles et si je n'aère pas un peu la pièce. Qu'est-ce qui pue autant ? Et si c'était moi ?"
+  },
+  "todo_movie": {
+    "comment": "Je regarderais bien un film. Pendant 1h30 j'oublie le monde et mes soucis.",
+    "bind":"Ou bien je lis un livre ?"
+    },
+  "todo_piano": {
+    "comment": "Je n'ai pas joué depuis si longtemps. Je n'aurais pas dû arrêter les cours.",
+    "bind": "Je pourrais composer la bande originale de mon prochain jeu vidéo. Quel jeu au juste ?"
+  },
+  "todo_shop": {
+    "comment": "Il faut que je fasse les courses !",
+    "bind": "Après ça je pourrais cuisiner quelque chose de réconfortant."
+  },
+  "todo_shrink": {
+    "comment": "C'est aujourd'hui mon rendez-vous chez le psy ! Je ne suis même pas sûr d'avoir assez d'argent pour payer la consultation.",
+    "bind": "Oh ! Je me souviens que j'ai aussi dit à Charlie que je passais le voir en début d'après-midi. Comment je fais pour caler deux rendez-vous différents le même jour, à la même heure ? Je suis nul !"
+  },
+  "todo_sport": {
+    "comment": "Objectivement, ça me ferait du bien de faire du sport. Je dois avoir une tenue adaptée sous cette pile de linge sale...",
+    "bind": "Ça implique que je sorte, que je transpire, que je pue. Sans compter qu'il faudra que je prenne une douche après. Sinon je peux jongler ?"
+  },
+  "todo_trash": {
+    "comment": "Il y a une odeur âcre ici. Je n'arrive pas à savoir si c'est le linge, les poubelles ou moi...",
+    "bind": "Tant qu'à faire je devrais peut-être tout nettoyer."
+  },
+}

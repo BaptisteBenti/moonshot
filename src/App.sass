@@ -1,0 +1,221 @@
+$baseColor: #282c34
+$red: #C0003A
+
+body
+  font-size: calc(10px + 2vmin)
+  color: white
+
+.isFixed
+  width: 100vw
+  height: 100vh
+  padding: 2rem
+  box-sizing: border-box
+  overflow: hidden
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+
+.defaultTheme
+  background-color: $baseColor
+  text-align: center
+  display: flex
+  flex-direction: column
+  justify-content: center
+
+// ------------------------------------
+// Style rules for dev purposes only
+
+.debugBorder
+  border: 2px solid rebeccapurple
+  & *
+    border: 2px solid rebeccapurple
+
+.debugHide
+  display: none
+
+.debugDisplay
+  position: absolute
+  top: 2rem
+  left: 2rem
+
+// -----------------------
+//    MainMenu Component
+// -----------------------
+
+nav.mainMenu
+  position: absolute
+  z-index: 999
+  top: 0
+  right: 0
+  opacity: .8
+  margin-right: 3rem
+
+.mainMenu
+
+  ul
+    display: flex
+  li
+    list-style-type: none
+    margin-right: 1rem
+
+  button
+    background: none
+    border: .02rem solid #eee
+    border-radius: .25rem
+    color: #efefef
+    font-size: 1rem
+    line-height: 1.2
+    white-space: nowrap
+    text-decoration: none
+    padding: .25rem .5rem
+    margin: .25rem
+    cursor: pointer
+
+// -----------------------
+//    Shared Styles
+// -----------------------
+
+.nightBG
+  background-color: #141414
+
+// -----------------------
+//    Scene Title
+// -----------------------
+
+.sceneTitle
+
+  h1
+    font-size: calc(10vw + 2vmax)
+
+  button
+    background: none
+    border: .02rem solid #eee
+    border-radius: .25rem
+    color: #efefef
+    font-size: 1rem
+    line-height: 1.2
+    white-space: nowrap
+    text-decoration: none
+    padding: .25rem .5rem
+    margin: .25rem
+    cursor: pointer
+
+// -----------------------
+//    Scene Intro
+// -----------------------
+
+// -----------------------
+//    Scene Alarm
+// -----------------------
+
+@font-face
+  font-family: 'digital-7_monomono'
+  src: url('./font/digital-7/digital-7-mono-webfont.woff2') format('woff2')
+  src: url('./font/digital-7/digital-7-mono-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+.sceneAlarm
+
+  .clock
+    font-family: 'digital-7_monomono'
+    color: $red
+    font-size: calc(22vmax - 5rem)
+
+  .bipBip
+    position: absolute
+    font-size: 24vh
+    margin: 0
+    line-height: 0px
+    font-weight: bold
+    z-index: 500
+
+  .clockButton
+    border-radius: 100%
+    width: 15rem
+    height: 15rem
+    display: inline-block
+    margin: 2rem
+    border: none
+    font-size: 2rem
+    color: white
+    font-weight: 800
+
+    &.stopButton
+      background-color: $red
+
+    &.snoozeButton
+      background-color: orange
+
+// -----------------------
+//    Scene WakeUp
+// -----------------------
+
+.sceneWakeUp
+
+  .gauge
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translateX(-50%)
+
+  .opacity100
+    opacity: 1
+  .opacity90
+    opacity: .9
+  .opacity80
+    opacity: .8
+  .opacity70
+    opacity: .7
+  .opacity60
+    opacity: .5
+  .opacity50
+    opacity: .4
+  .opacity40
+    opacity: .3
+  .opacity30
+    opacity: .2
+  .opacity20
+    opacity: .1
+
+// -----------------------
+//    Scene EatOrDress1
+// -----------------------
+
+// -----------------------
+//    Scene EatOrDress2
+// -----------------------
+
+// -----------------------
+//    Scene EatOrDress3
+// -----------------------
+
+// -----------------------
+//    Scene ToDo1
+// -----------------------
+
+// -----------------------
+//    Scene ToDo2
+// -----------------------
+
+// -----------------------
+//    Scene Today1
+// -----------------------
+
+// -----------------------
+//    Scene Today2
+// -----------------------
+
+// -----------------------
+//    Scene Today3
+// -----------------------
+
+// -----------------------
+//    Scene End
+// -----------------------
+
+// -----------------------
+//    Scene Score
+// -----------------------
